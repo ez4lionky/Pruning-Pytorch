@@ -1,0 +1,10 @@
+__pycache__/
+data/*
+!examples/.gitkeep
+*.DS_Store
+.idea/
+local/
+
+log/*
+*.pkl
+run/*
